@@ -1,0 +1,7 @@
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\ClassReport\ClassReport\obj\Debug\ClassReport.csprojAssemblyReference.cache
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\ClassReport\ClassReport\obj\Debug\ClassReport.csproj.CoreCompileInputs.cache
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\ClassReport\ClassReport\bin\Debug\ClassReport.exe.config
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\ClassReport\ClassReport\bin\Debug\ClassReport.exe
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\ClassReport\ClassReport\bin\Debug\ClassReport.pdb
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\ClassReport\ClassReport\obj\Debug\ClassReport.exe
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\ClassReport\ClassReport\obj\Debug\ClassReport.pdb
