@@ -1,0 +1,6 @@
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\WelcomeScreenAssignment\WelcomeScreenAssignment\bin\Debug\WelcomeScreenAssignment.exe.config
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\WelcomeScreenAssignment\WelcomeScreenAssignment\bin\Debug\WelcomeScreenAssignment.exe
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\WelcomeScreenAssignment\WelcomeScreenAssignment\bin\Debug\WelcomeScreenAssignment.pdb
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\WelcomeScreenAssignment\WelcomeScreenAssignment\obj\Debug\WelcomeScreenAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\WelcomeScreenAssignment\WelcomeScreenAssignment\obj\Debug\WelcomeScreenAssignment.exe
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\WelcomeScreenAssignment\WelcomeScreenAssignment\obj\Debug\WelcomeScreenAssignment.pdb

@@ -1,0 +1,7 @@
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe.config
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.pdb
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csprojAssemblyReference.cache
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.exe
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.pdb
