@@ -1,0 +1,7 @@
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\IncomeCompare\IncomeCompare\obj\Debug\IncomeCompare.csprojAssemblyReference.cache
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\IncomeCompare\IncomeCompare\obj\Debug\IncomeCompare.csproj.CoreCompileInputs.cache
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\IncomeCompare\IncomeCompare\bin\Debug\IncomeCompare.exe.config
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\IncomeCompare\IncomeCompare\bin\Debug\IncomeCompare.exe
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\IncomeCompare\IncomeCompare\bin\Debug\IncomeCompare.pdb
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\IncomeCompare\IncomeCompare\obj\Debug\IncomeCompare.exe
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\IncomeCompare\IncomeCompare\obj\Debug\IncomeCompare.pdb
