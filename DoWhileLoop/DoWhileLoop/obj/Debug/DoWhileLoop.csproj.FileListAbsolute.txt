@@ -1,0 +1,2 @@
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.csprojAssemblyReference.cache
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.csproj.CoreCompileInputs.cache
