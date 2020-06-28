@@ -1,0 +1,7 @@
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\InsuranceApproval\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\InsuranceApproval\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\InsuranceApproval\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\InsuranceApproval\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\InsuranceApproval\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\InsuranceApproval\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ashli\OneDrive\Desktop\Basic-C-Sharp-Projects\InsuranceApproval\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
