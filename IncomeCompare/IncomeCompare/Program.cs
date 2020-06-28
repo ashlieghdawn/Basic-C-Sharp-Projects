@@ -23,6 +23,9 @@ namespace IncomeCompare
             Console.WriteLine(rateOne * hoursOne * 52);
             Console.WriteLine("Annual Salary of Person Two:");
             Console.WriteLine(rateTwo * hoursTwo * 52);
+            Console.WriteLine("Does Person 1 make more money than Person 2?");
+            bool makesMore = (rateOne * hoursOne * 52) > (rateTwo * hoursTwo * 52);
+            Console.Write(makesMore);
             Console.ReadLine();
 
         }
