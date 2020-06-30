@@ -22,26 +22,27 @@ namespace WhileLoop
                     case 1:
                         Console.WriteLine("Try Again.");
                         Console.WriteLine("Guess a number between 1 and 4:");
-                        int number = Convert.ToInt32(Console.ReadLine());
+                        number = Convert.ToInt32(Console.ReadLine());
                         break;
 
                     case 2:
                         Console.WriteLine("Try Again.");
                         Console.WriteLine("Guess a number between 1 and 4:");
-                        int number = Convert.ToInt32(Console.ReadLine());
+                        number = Convert.ToInt32(Console.ReadLine());
                         break;
                     case 3:
                         Console.WriteLine("Try Again.");
                         Console.WriteLine("Guess a number between 1 and 4:");
-                        int number = Convert.ToInt32(Console.ReadLine());
+                        number = Convert.ToInt32(Console.ReadLine());
                         break;
                     case 4:
                         Console.WriteLine("You are correct.");
+                        isGuessed = true;
                         break;
                     default:
                         Console.WriteLine("Try Again.");
                         Console.WriteLine("Guess a number between 1 and 4:");
-                        int number = Convert.ToInt32(Console.ReadLine());
+                        number = Convert.ToInt32(Console.ReadLine());
                         break;
                 }
             }
