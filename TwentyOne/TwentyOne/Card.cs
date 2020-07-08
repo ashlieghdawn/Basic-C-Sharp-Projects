@@ -9,7 +9,7 @@ namespace TwentyOne
     public struct Card
     {
         public Suit Suit { get; set; }  //making this property public makes it accessible to other parts of the program
-        public string Face { get; set; }
+        public Face Face { get; set; }
     }
     public enum Suit
     {
