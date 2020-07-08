@@ -16,7 +16,7 @@ namespace TwentyOne
             Console.ReadLine();
 
             Deck deck = new Deck();
-            /*deck.Shuffle(3);
+            deck.Shuffle(3);
             //deck = Shuffle(deck);
 
             foreach (Card card in deck.Cards)
@@ -24,7 +24,7 @@ namespace TwentyOne
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
             Console.WriteLine(deck.Cards.Count);
-            Console.ReadLine();*/
+            Console.ReadLine();
         }
 
         
