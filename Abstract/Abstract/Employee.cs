@@ -15,5 +15,11 @@ namespace Abstract
             Console.WriteLine("Name: " + FirstName + " " + LastName);
             Console.ReadLine();
         }
+
+        public void Quit()
+        {
+            Console.WriteLine("I quit!");
+            Console.ReadLine();
+        }
     }
 }

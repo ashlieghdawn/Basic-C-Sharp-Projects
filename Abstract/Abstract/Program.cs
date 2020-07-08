@@ -16,8 +16,11 @@ namespace Abstract
             person.id = 1;
             person.SayName();
 
-            
-              
+            person.FirstName = "Sara";
+            person.LastName = "Pommer";
+            person.id = 2;
+            person.SayName();
+
         }
     }
 }
