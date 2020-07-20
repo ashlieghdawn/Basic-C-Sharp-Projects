@@ -10,7 +10,7 @@ namespace TwentyOne
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
-        public string Dealer { get; set; }
+        public Dictionary<Player, int> Bets { get; set; }
 
         public abstract void Play();
 

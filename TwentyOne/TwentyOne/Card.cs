@@ -10,6 +10,11 @@ namespace TwentyOne
     {
         public Suit Suit { get; set; }  //making this property public makes it accessible to other parts of the program
         public Face Face { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
     }
     public enum Suit
     {
